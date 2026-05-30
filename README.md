@@ -1,29 +1,96 @@
-![Hatem Rabea profile banner](./assets/profile-banner.svg)
+<p align="center">
+  <img src="./assets/profile-banner.svg" alt="Hatem Rabea - Full-Stack Web Developer" />
+</p>
 
-# Hatem Rabea
+<h1 align="center">Hi, I'm Hatem Rabea</h1>
 
-**Full-Stack Web Developer**  
-Laravel · React · TypeScript · REST APIs · Payments · SaaS · Localization
+<p align="center">
+  <strong>Full-Stack Web Developer</strong>
+  <br />
+  Laravel · React · TypeScript · Payments · SaaS · Localization
+</p>
 
-I build production-ready web platforms with clean architecture, secure APIs, reliable payment flows, and scalable dashboards.
-
-[LinkedIn](https://www.linkedin.com/in/hatimrabea) · [GitHub](https://github.com/HatemRabeaHamde) · [Email](mailto:xavio1115@gmail.com) · [WhatsApp](https://wa.me/201101980053)
+<p align="center">
+  <a href="https://www.linkedin.com/in/hatimrabea">
+    <img src="https://img.shields.io/badge/LinkedIn-Hatem%20Rabea-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/HatemRabeaHamde">
+    <img src="https://img.shields.io/badge/GitHub-HatemRabeaHamde-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="mailto:xavio1115@gmail.com">
+    <img src="https://img.shields.io/badge/Email-xavio1115%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://wa.me/201101980053">
+    <img src="https://img.shields.io/badge/WhatsApp-+20%20110%20198%200053-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+  </a>
+</p>
 
 ---
 
-## About
+## A Little Bit About Me
 
-Full-Stack Web Developer with 3+ years of experience building platforms for clients across KSA, UAE, Egypt, and Europe.
+```yaml
+name: Hatem Rabea
+located_in: Cairo, Egypt
+current_role: Full-Stack Web Developer
+experience: 3+ years
 
-My work focuses on Laravel, React, TypeScript, payment systems, booking workflows, admin dashboards, API security, performance optimization, and Arabic/English localization.
+specialized_in:
+  [
+    "Laravel APIs",
+    "React applications",
+    "Payment systems",
+    "Booking workflows",
+    "Admin dashboards",
+    "Arabic/English localization",
+  ]
+
+markets_served: ["KSA", "UAE", "Egypt", "Europe"]
+
+engineering_style:
+  [
+    "Clean architecture",
+    "Service layer",
+    "Repository pattern",
+    "Secure payment flows",
+    "Performance-focused APIs",
+  ]
+
+availability:
+  "Open to remote full-stack roles, freelance projects, and production SaaS work"
+```
 
 ---
 
-## Stack
+## Snapshot
 
-`Laravel` `PHP` `React` `TypeScript` `Redux Toolkit` `RTK Query` `Tailwind CSS`  
-`MySQL` `Redis` `REST APIs` `Sanctum` `Firebase` `Payment Gateways`  
-`SOLID` `Service Layer` `Repository Pattern` `Clean Architecture`
+| 10+ | 8+ | Up to 55% | 3+ |
+|---:|---:|---:|---:|
+| Production platforms | Payment gateways | Performance gains | Years experience |
+
+---
+
+## Tools I Use
+
+<p>
+  <img src="https://img.shields.io/badge/Laravel-F9322C?style=flat-square&logo=laravel&logoColor=white" alt="Laravel" />
+  <img src="https://img.shields.io/badge/PHP%208.x-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" alt="NestJS" />
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Redux%20Toolkit-764ABC?style=flat-square&logo=redux&logoColor=white" alt="Redux Toolkit" />
+  <img src="https://img.shields.io/badge/Tailwind%20CSS-38BDF8?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white" alt="Nginx" />
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions" />
+</p>
+
+`SOLID` `Service Layer` `Repository Pattern` `Clean Architecture` `REST APIs` `Webhooks` `RTL/LTR`
 
 ---
 
@@ -51,14 +118,13 @@ Laundry marketplace · OTP · Moyasar · role-scoped APIs · AR/EN localization
 
 ---
 
-## What I Care About
+## How I Build
 
-- Clean backend architecture
-- Secure payment and webhook flows
-- Fast APIs and optimized database queries
-- Maintainable React applications
-- Arabic/English localization from day one
-- Shipping stable production systems
+- Keep business logic inside services, away from controllers and UI components.
+- Design APIs with validation, authorization, predictable responses, and secure payment flows.
+- Treat webhooks with verification, idempotency, and duplicate protection.
+- Optimize slow database paths using eager loading, caching, and query tuning.
+- Build Arabic/English products with RTL/LTR support from the start.
 
 ---
 
@@ -74,4 +140,6 @@ Laundry marketplace · OTP · Moyasar · role-scoped APIs · AR/EN localization
 
 ---
 
-**Clean architecture. Secure APIs. Scalable platforms.**
+<p align="center">
+  <strong>Clean architecture. Secure APIs. Scalable platforms.</strong>
+</p>

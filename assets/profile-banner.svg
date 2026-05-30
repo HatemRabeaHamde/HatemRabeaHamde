@@ -1,21 +1,17 @@
-<svg width="1200" height="320" viewBox="0 0 1200 320" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
-  <title id="title">Hatem Rabea profile banner</title>
-  <desc id="desc">A modern dark profile banner for Hatem Rabea, Full-Stack Web Developer.</desc>
-  <rect width="1200" height="320" rx="28" fill="#0B1220"/>
-  <path d="M0 248C142 205 218 279 363 233C500 190 560 87 721 123C890 160 955 232 1200 170V320H0V248Z" fill="#132238"/>
-  <path d="M0 260C166 220 236 300 388 251C539 202 591 126 738 151C902 179 994 237 1200 196V320H0V260Z" fill="#0F766E" fill-opacity="0.38"/>
-  <circle cx="1030" cy="70" r="112" fill="#14B8A6" fill-opacity="0.12"/>
-  <circle cx="170" cy="270" r="150" fill="#38BDF8" fill-opacity="0.1"/>
-  <rect x="70" y="70" width="1060" height="180" rx="22" fill="#0F172A" fill-opacity="0.72" stroke="#1E293B"/>
-  <text x="96" y="126" fill="#E5E7EB" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="42" font-weight="700" letter-spacing="0">Hatem Rabea</text>
-  <text x="98" y="168" fill="#5EEAD4" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="22" font-weight="600" letter-spacing="0">Full-Stack Web Developer</text>
-  <text x="98" y="209" fill="#CBD5E1" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="20" font-weight="400" letter-spacing="0">Laravel · React · TypeScript · REST APIs · Payments · SaaS · Localization</text>
-  <g transform="translate(875 95)">
-    <rect width="178" height="42" rx="21" fill="#14B8A6" fill-opacity="0.15" stroke="#2DD4BF" stroke-opacity="0.35"/>
-    <text x="24" y="27" fill="#CCFBF1" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="16" font-weight="600" letter-spacing="0">Production Ready</text>
-  </g>
-  <g transform="translate(875 151)">
-    <rect width="136" height="42" rx="21" fill="#38BDF8" fill-opacity="0.12" stroke="#38BDF8" stroke-opacity="0.28"/>
-    <text x="24" y="27" fill="#E0F2FE" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="16" font-weight="600" letter-spacing="0">Secure APIs</text>
-  </g>
+<svg width="1200" height="280" viewBox="0 0 1200 280" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Hatem Rabea profile header</title>
+  <desc id="desc">A simple modern GitHub profile header for Hatem Rabea.</desc>
+  <rect width="1200" height="280" rx="24" fill="#0D1117"/>
+  <rect x="34" y="34" width="1132" height="212" rx="18" fill="#161B22" stroke="#30363D"/>
+  <circle cx="70" cy="64" r="7" fill="#FF5F56"/>
+  <circle cx="94" cy="64" r="7" fill="#FFBD2E"/>
+  <circle cx="118" cy="64" r="7" fill="#27C93F"/>
+  <text x="64" y="115" fill="#8B949E" font-family="SFMono-Regular, Consolas, Liberation Mono, Menlo, monospace" font-size="22" letter-spacing="0">$ whoami</text>
+  <text x="64" y="162" fill="#F0F6FC" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="46" font-weight="800" letter-spacing="0">Hatem Rabea</text>
+  <text x="66" y="206" fill="#58A6FF" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="24" font-weight="700" letter-spacing="0">Full-Stack Web Developer</text>
+  <text x="660" y="116" fill="#7EE787" font-family="SFMono-Regular, Consolas, Liberation Mono, Menlo, monospace" font-size="22" letter-spacing="0">Laravel</text>
+  <text x="660" y="154" fill="#79C0FF" font-family="SFMono-Regular, Consolas, Liberation Mono, Menlo, monospace" font-size="22" letter-spacing="0">React + TypeScript</text>
+  <text x="660" y="192" fill="#FFA657" font-family="SFMono-Regular, Consolas, Liberation Mono, Menlo, monospace" font-size="22" letter-spacing="0">Secure APIs + Payments</text>
+  <path d="M1000 74L1084 140L1000 206" stroke="#30363D" stroke-width="18" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M928 74L844 140L928 206" stroke="#30363D" stroke-width="18" stroke-linecap="round" stroke-linejoin="round"/>
 </svg>
