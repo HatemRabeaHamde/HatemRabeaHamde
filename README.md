@@ -1,21 +1,7 @@
 <p align="center">
-  <img src="./githubBanner.png" alt="Hatem Rabea Banner" width="100%" />
+  <img src="./assets/githubBanner.png" alt="Hatem Rabea Banner" width="100%" />
 </p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/hatimrabea">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/HatemRabeaHamde">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="mailto:xavio1115@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://wa.me/201101980053">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-  </a>
-</p>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=laravel,php,react,ts,tailwind,redux,redis,mysql,docker,linux,git,github" />
@@ -113,10 +99,18 @@ Laundry marketplace with integrated payment processing.
 ## 📫 Contact
 
 <p align="center">
-  <a href="mailto:xavio1115@gmail.com">📧 Email</a> •
-  <a href="https://www.linkedin.com/in/hatimrabea">💼 LinkedIn</a> •
-  <a href="https://github.com/HatemRabeaHamde">💻 GitHub</a> •
-  <a href="https://wa.me/201101980053">📱 WhatsApp</a>
+  <a href="mailto:xavio1115@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/hatimrabea">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/HatemRabeaHamde">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://wa.me/201101980053">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
 </p>
 
 ---
