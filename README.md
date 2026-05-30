@@ -3,7 +3,6 @@
 </p>
 
 ## 👨‍💻 About Me
----
 
 I build production-ready platforms focused on scalability, maintainability, and business growth.
 
