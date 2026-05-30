@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/githubBanner.png" alt="Hatem Rabea Banner" width="100%" />
+  <img src="./assets/githubBanner.png" alt="Hatem Rabea Banner" width="100%" high="20%" />
 </p>
 
 
@@ -9,6 +9,7 @@
 
 ---
 👨‍💻 About Me
+---
 
 I build production-ready platforms focused on scalability, maintainability, and business growth.
 
@@ -19,7 +20,6 @@ My focus is simple:
 Build clean systems
 Ship reliable features
 Scale without chaos
----
 
 ## 🚀 Core Expertise
 
@@ -28,10 +28,7 @@ Scale without chaos
 * Payment Integrations
 * API Design & Security
 * System Architecture
-* Multi-Tenant Applications
 * Performance Optimization
-* Localization (AR / EN)
-
 ---
 
 ## 🌟 Featured Projects
