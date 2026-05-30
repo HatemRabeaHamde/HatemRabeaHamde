@@ -4,90 +4,146 @@
 
 ### Full-Stack Web Developer
 
-Laravel | React | TypeScript | REST APIs | Payments | Dashboards | Localization
+Laravel · React · TypeScript · REST APIs · Payments · Dashboards · Localization
 
-I build secure, scalable, production-ready web platforms for clients across KSA, UAE, Egypt, and Europe.
+<br />
+
+Building secure, scalable, and production-ready web platforms for clients across  
+<strong>KSA, UAE, Egypt, and Europe</strong>
 
 <br />
 
 <a href="https://www.linkedin.com/in/hatimrabea">LinkedIn</a>
-&nbsp;|&nbsp;
+&nbsp;&nbsp;·&nbsp;&nbsp;
 <a href="https://github.com/HatemRabeaHamde">GitHub</a>
-&nbsp;|&nbsp;
+&nbsp;&nbsp;·&nbsp;&nbsp;
+<a href="mailto:xavio1115@gmail.com">Email</a>
+&nbsp;&nbsp;·&nbsp;&nbsp;
 <a href="https://wa.me/201101980053">WhatsApp</a>
 
 </div>
 
 ---
 
-## About Me
+## Professional Summary
 
-I'm a Full-Stack Web Developer with 3+ years of experience building real production platforms, from APIs and admin dashboards to booking systems, payment flows, loyalty platforms, and localized Arabic/English applications.
+Full-Stack Web Developer with 3+ years of experience delivering production-grade platforms, APIs, dashboards, booking systems, payment flows, loyalty platforms, and Arabic/English localized applications.
 
-I focus on clean architecture, secure backend workflows, high-performance APIs, maintainable frontend structure, and practical delivery for real business needs.
+I specialize in Laravel and React ecosystems, with a strong focus on clean architecture, secure backend workflows, performance optimization, and practical product delivery.
 
 ---
 
-## Engineering Profile
+## Core Expertise
 
-| Area | Focus |
-|---|---|
-| Backend | Laravel, PHP, REST APIs, Sanctum, Queues, Jobs |
-| Frontend | React, TypeScript, Redux Toolkit, RTK Query, Tailwind CSS |
-| Architecture | SOLID, Service Layer, Repository Pattern, DTOs |
-| Database | MySQL, Query Optimization, Caching, Performance Tuning |
-| Integrations | Payment Gateways, Firebase FCM, OTP/SMS, Webhooks |
-| Product Work | Dashboards, Multi-role Systems, Booking, Subscriptions, Localization |
+<table>
+  <tr>
+    <td width="33%">
+      <strong>Backend</strong>
+      <br /><br />
+      Laravel, PHP 8.x, REST APIs, Sanctum, Queues, Jobs, Redis, MySQL
+    </td>
+    <td width="33%">
+      <strong>Frontend</strong>
+      <br /><br />
+      React, TypeScript, Redux Toolkit, RTK Query, Tailwind CSS, Zod
+    </td>
+    <td width="33%">
+      <strong>Product</strong>
+      <br /><br />
+      Dashboards, Payments, Booking Systems, Marketplaces, Localization
+    </td>
+  </tr>
+</table>
 
 ---
 
 ## Tech Stack
 
-### Backend
-<kbd>Laravel</kbd> <kbd>PHP 8.x</kbd> <kbd>REST APIs</kbd> <kbd>Sanctum</kbd> <kbd>Queues</kbd> <kbd>Jobs</kbd> <kbd>Redis</kbd> <kbd>Meilisearch</kbd>
-
-### Frontend
-<kbd>React</kbd> <kbd>TypeScript</kbd> <kbd>Redux Toolkit</kbd> <kbd>RTK Query</kbd> <kbd>Tailwind CSS</kbd> <kbd>React Hook Form</kbd> <kbd>Zod</kbd>
-
-### Database & DevOps
-<kbd>MySQL</kbd> <kbd>SQL</kbd> <kbd>Docker</kbd> <kbd>Linux</kbd> <kbd>Nginx</kbd> <kbd>Git</kbd> <kbd>GitHub Actions</kbd> <kbd>CI/CD</kbd>
-
-### Engineering
-<kbd>SOLID</kbd> <kbd>Clean Architecture</kbd> <kbd>Repository Pattern</kbd> <kbd>Service Layer</kbd> <kbd>DTOs</kbd> <kbd>API Security</kbd>
+<table>
+  <tr>
+    <td><strong>Backend</strong></td>
+    <td>
+      <code>Laravel</code>
+      <code>PHP</code>
+      <code>REST APIs</code>
+      <code>Sanctum</code>
+      <code>Queues</code>
+      <code>Redis</code>
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Frontend</strong></td>
+    <td>
+      <code>React</code>
+      <code>TypeScript</code>
+      <code>Redux Toolkit</code>
+      <code>RTK Query</code>
+      <code>Tailwind CSS</code>
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Database</strong></td>
+    <td>
+      <code>MySQL</code>
+      <code>SQL</code>
+      <code>Query Optimization</code>
+      <code>Caching</code>
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Integrations</strong></td>
+    <td>
+      <code>Payment Gateways</code>
+      <code>Firebase FCM</code>
+      <code>OTP/SMS</code>
+      <code>Webhooks</code>
+      <code>Third-Party APIs</code>
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Engineering</strong></td>
+    <td>
+      <code>SOLID</code>
+      <code>Service Layer</code>
+      <code>Repository Pattern</code>
+      <code>DTOs</code>
+      <code>Clean Architecture</code>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## What I Build
+## Selected Work
 
-| Product Type | Experience |
+| Project | Focus |
 |---|---|
-| Booking Platforms | Rental systems, car services, parking, machine rentals |
-| Payment Systems | Payment gateways, webhook verification, subscriptions, invoices |
-| Admin Dashboards | Multi-role dashboards, reports, operations management |
-| Marketplaces | Real estate, laundry, automotive, social commerce |
-| Localized Apps | Arabic/English, RTL/LTR, translation-ready interfaces |
-| Legacy Rescue | Stabilization, refactoring, performance improvements |
-
----
-
-## Featured Work
-
-| Project | What I Delivered |
-|---|---|
-| **aiSmarty** | AI-powered Shopify content optimization platform with product sync, Shopify OAuth, AI generation workflows, background polling, and one-click publishing |
-| **Saedni** | Automotive services platform for subscriptions, inspections, towing, replacement rentals, MyFatoorah payments, Firebase notifications, and bilingual support |
-| **Hya** | Social commerce and loyalty platform with feed, chat, deals, live streaming, POS/cashier integration, Firebase, and secure payment flows |
-| **Machine Rental Platform** | Heavy-machine rental marketplace with Laravel backend, React frontend, OTP login, booking lifecycle, role-based access, and admin reporting |
-| **Real Estate Platform** | Multi-vendor real estate platform with contracts, seller commerce, invoices, PDFs, admin dashboard, localization, and performance optimization |
-| **WestClean** | Laundry marketplace with customer/laundry/admin roles, OTP auth, Moyasar payments, coin purchasing, and Arabic/English localization |
+| **aiSmarty** | AI-powered Shopify content optimization platform with Shopify OAuth, product sync, AI workflows, background polling, and one-click publishing |
+| **Saedni** | Automotive services and payments platform with subscriptions, inspections, towing, rentals, MyFatoorah payments, Firebase notifications, and RTL/LTR support |
+| **Hya** | Social commerce and loyalty platform with feed, chat, deals, live streaming, POS/cashier integration, and secure payment workflows |
+| **Machine Rental Platform** | Heavy-machine rental marketplace with OTP login, booking lifecycle, role-based access, and admin reporting |
+| **Real Estate Platform** | Multi-vendor real estate system with contracts, invoices, PDF generation, admin dashboard, localization, and performance optimization |
+| **WestClean** | Laundry marketplace with OTP auth, Moyasar payments, role-scoped APIs, coin purchasing, and Arabic/English localization |
 
 ---
 
 ## Delivery Highlights
 
+<table>
+  <tr>
+    <td align="center"><strong>10+</strong><br />Production platforms</td>
+    <td align="center"><strong>8+</strong><br />Payment gateways</td>
+    <td align="center"><strong>35% - 55%</strong><br />Performance gains</td>
+    <td align="center"><strong>4</strong><br />Main markets</td>
+  </tr>
+</table>
+
+---
+
+## Engineering Principles
+
 ```txt
-Production Platforms Delivered     10+
-API & DB Performance Gains         35% - 55%
-Payment Gateways Integrated        8+
-Primary Markets                    KSA, UAE, Egypt, Europe
-Core Strength                      Laravel + React production systems
+Clean Architecture        Secure REST APIs        Payment Reliability
+Service Layer             Repository Pattern      Webhook Verification
+Performance Tuning        Query Optimization      Localization Ready
+Scalable Dashboards       Role-Based Access       Production Delivery
