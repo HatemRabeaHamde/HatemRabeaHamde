@@ -27,45 +27,49 @@ Scale without chaos
 ## 🌟 Featured Projects
 
 ### 🤖 AI Smarty
-
 Multi-tenant Shopify SaaS platform for AI-powered content generation and publishing.
 
 **Tech:** React 19 · RTK Query · Tailwind CSS · Shopify API
 
+🔗 Case Study: [View Details](./case-studies/ai-smarty.md)
+
 ---
 
 ### 💳 Saedni
-
 Automotive subscriptions and payment platform with subscription billing and payment integrations.
 
 **Tech:** Laravel · React · MyFatoorah · Firebase
 
+🔗 Case Study: [View Details](./case-studies/saedni.md)
+
 ---
 
 ### 🏗️ Machine Rental Marketplace
-
 Heavy equipment booking and management marketplace.
 
 **Tech:** Laravel · OTP Authentication · RBAC
 
+🔗 Case Study: [View Details](./case-studies/machine-rental.md)
+
 ---
 
 ### 🏠 Real Estate Platform
-
 Multi-vendor property management platform.
 
 **Tech:** Laravel · Invoices · PDF Generation · Localization
 
+🔗 Case Study: [View Details](./case-studies/real-estate.md)
+
 ---
 
 ### 🧺 WestClean
-
 Laundry marketplace with integrated payment processing.
 
 **Tech:** Laravel · Moyasar · REST APIs
 
----
+🔗 Case Study: [View Details](./case-studies/westclean.md)
 
+---
 ## ⚡ Tech Stack
 
 ### Backend
