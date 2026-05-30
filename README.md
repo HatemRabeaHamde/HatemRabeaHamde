@@ -1,84 +1,64 @@
 <p align="center">
-  <img src="./assets/banner.png" alt="Hatem Rabea - Full Stack Web Developer" width="100%" />
+  <img src="./githubBanner.png" alt="Hatem Rabea Banner" width="100%" />
 </p>
 
-<div align="center">
+<p align="center">
+  <a href="https://www.linkedin.com/in/hatimrabea">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/HatemRabeaHamde">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="mailto:xavio1115@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://wa.me/201101980053">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
+</p>
 
-<a href="https://www.linkedin.com/in/hatimrabea">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-<a href="https://github.com/HatemRabeaHamde">
-  <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-<a href="mailto:xavio1115@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-<a href="https://wa.me/201101980053">
-  <img src="https://img.shields.io/badge/WhatsApp-Message-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-</a>
-
-</div>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=laravel,php,react,ts,tailwind,redux,redis,mysql,docker,linux,git,github" />
+</p>
 
 ---
 
-## 🚀 What I Build
-
-Production-ready platforms focused on:
+## 🚀 Core Expertise
 
 * SaaS Platforms
-* Marketplaces
-* Payment Systems
-* Booking Platforms
-* Admin Dashboards
-* Multi-language Applications
-
----
-
-## ⚡ Tech Stack
-
-**Backend**
-`Laravel` `PHP` `MySQL` `Redis` `REST APIs` `Sanctum`
-
-**Frontend**
-`React` `TypeScript` `Redux Toolkit` `RTK Query` `Tailwind CSS`
-
-**Architecture & Engineering**
-`SOLID` `Service Layer` `Repository Pattern` `Clean Architecture` `Queues` `Webhooks`
+* Marketplace Development
+* Payment Integrations
+* API Design & Security
+* System Architecture
+* Multi-Tenant Applications
+* Performance Optimization
+* Localization (AR / EN)
 
 ---
 
 ## 🌟 Featured Projects
 
-### 🤖 aiSmarty
+### 🤖 AI Smarty
 
-AI-powered Shopify SaaS platform for content generation and publishing.
+Multi-tenant Shopify SaaS platform for AI-powered content generation and publishing.
 
-**Highlights:** Shopify OAuth · Product Sync · AI Workflows · Queue Processing · One-click Publishing
-
-[Read Case Study](./case-studies/aismarty.md)
+**Tech:** React 19 · RTK Query · Tailwind CSS · Shopify API
 
 ---
 
 ### 💳 Saedni
 
-Automotive subscriptions and payment platform.
+Automotive subscriptions and payment platform with subscription billing and payment integrations.
 
-**Highlights:** MyFatoorah · Subscription Billing · Firebase Notifications · Webhook Verification · RTL/LTR
-
-[Read Case Study](./case-studies/saedni.md)
+**Tech:** Laravel · React · MyFatoorah · Firebase
 
 ---
 
-### 🏗 Machine Rental
+### 🏗️ Machine Rental Marketplace
 
-Heavy equipment booking marketplace.
+Heavy equipment booking and management marketplace.
 
-**Highlights:** OTP Authentication · Booking Lifecycle · Role-Based Access · Admin Reporting
-
-[Read Case Study](./case-studies/machine-rental.md)
+**Tech:** Laravel · OTP Authentication · RBAC
 
 ---
 
@@ -86,47 +66,61 @@ Heavy equipment booking marketplace.
 
 Multi-vendor property management platform.
 
-**Highlights:** Contracts · Invoices · PDF Generation · Localization · Performance Optimization
-
-[Read Case Study](./case-studies/real-estate-platform.md)
+**Tech:** Laravel · Invoices · PDF Generation · Localization
 
 ---
 
 ### 🧺 WestClean
 
-Laundry marketplace with integrated payments.
+Laundry marketplace with integrated payment processing.
 
-**Highlights:** OTP Authentication · Moyasar Payments · Role-Based APIs · AR/EN Localization
-
-[Read Case Study](./case-studies/westclean.md)
+**Tech:** Laravel · Moyasar · REST APIs
 
 ---
 
-## 🎯 Expertise
+## ⚡ Tech Stack
 
-SaaS Architecture · Marketplace Development · Payment Integrations · API Design & Security · Booking Systems · Localization · Performance Optimization
+### Backend
+
+`Laravel` `PHP` `REST APIs` `Sanctum` `Redis` `Meilisearch` `Queues & Jobs`
+
+### Frontend
+
+`React` `TypeScript` `Redux Toolkit` `RTK Query` `Tailwind CSS` `Vite`
+
+### Architecture & Engineering
+
+`SOLID` `Repository Pattern` `Service Layer`
+`DTOs` `Clean Architecture`
+`PHPUnit` `Pest` `GitHub Actions`
+
+### DevOps
+
+`Docker` `Linux`
+`Nginx` `CI/CD`
+`VPS Deployment`
+
+### Integrations
+
+`Payment Gateways`
+`Firebase FCM`
+`OTP/SMS Services`
+`Third-Party APIs`
+`Webhook Handling`
 
 ---
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=HatemRabeaHamde&show_icons=true&theme=github_dark&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HatemRabeaHamde&layout=compact&theme=github_dark&hide_border=true" />
-</p>
-
 
 ## 📫 Contact
 
-* Email: [xavio1115@gmail.com](mailto:xavio1115@gmail.com)
-* LinkedIn: [linkedin.com/in/hatimrabea](https://www.linkedin.com/in/hatimrabea)
-* GitHub: [github.com/HatemRabeaHamde](https://github.com/HatemRabeaHamde)
-* WhatsApp: [+20 110 198 0053](https://wa.me/201101980053)
+<p align="center">
+  <a href="mailto:xavio1115@gmail.com">📧 Email</a> •
+  <a href="https://www.linkedin.com/in/hatimrabea">💼 LinkedIn</a> •
+  <a href="https://github.com/HatemRabeaHamde">💻 GitHub</a> •
+  <a href="https://wa.me/201101980053">📱 WhatsApp</a>
+</p>
 
 ---
 
-<div align="center">
-
-### Clean Architecture · Secure APIs · Scalable Platforms
-
-</div>
+<p align="center">
+  <strong>Building Scalable SaaS Products • Clean Architecture • Secure APIs</strong>
+</p>
