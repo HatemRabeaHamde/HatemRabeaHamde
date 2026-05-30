@@ -1,14 +1,7 @@
 <p align="center">
   <img src="./assets/githubBanner.png" alt="Hatem Rabea Banner" width="100%" high="20%" />
 </p>
-
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=laravel,php,react,ts,tailwind,redux,redis,mysql,docker,linux,git,github" />
-</p>
-
----
-👨‍💻 About Me
+##👨‍💻 About Me
 ---
 
 I build production-ready platforms focused on scalability, maintainability, and business growth.
