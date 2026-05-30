@@ -1,4 +1,3 @@
-![Hatem Rabea profile banner](./assets/profile-banner.svg)
 
 # Hatem Rabea
 
