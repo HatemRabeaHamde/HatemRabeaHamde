@@ -8,6 +8,18 @@
 </p>
 
 ---
+👨‍💻 About Me
+
+I build production-ready platforms focused on scalability, maintainability, and business growth.
+
+Over the past few years, I've worked on SaaS products, booking systems, marketplaces, subscription platforms, payment integrations, and multilingual applications serving clients across the Middle East and Europe.
+
+My focus is simple:
+
+Build clean systems
+Ship reliable features
+Scale without chaos
+---
 
 ## 🚀 Core Expertise
 
