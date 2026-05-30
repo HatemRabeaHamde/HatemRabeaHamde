@@ -1,116 +1,37 @@
 <div align="center">
 
+<img src="https://avatars.githubusercontent.com/HatemRabeaHamde" width="72" style="border-radius:50%"/>
+
 # Hatem Rabea
+**Full-Stack Web Developer**
 
-### Full-Stack Web Developer
+`Laravel` `React` `TypeScript` `NestJS` `Next.js` `REST APIs`
 
-Laravel · React · TypeScript · REST APIs · Payments · Dashboards · Localization
+Building secure, scalable, production-ready platforms for clients across
+🇸🇦 KSA · 🇦🇪 UAE · 🇪🇬 Egypt · 🇪🇺 Europe
 
-<br />
-
-Building secure, scalable, and production-ready web platforms for clients across  
-<strong>KSA, UAE, Egypt, and Europe</strong>
-
-<br />
-
-<a href="https://www.linkedin.com/in/hatimrabea">LinkedIn</a>
-&nbsp;&nbsp;·&nbsp;&nbsp;
-<a href="https://github.com/HatemRabeaHamde">GitHub</a>
-&nbsp;&nbsp;·&nbsp;&nbsp;
-<a href="mailto:xavio1115@gmail.com">Email</a>
-&nbsp;&nbsp;·&nbsp;&nbsp;
-<a href="https://wa.me/201101980053">WhatsApp</a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hatimrabea)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/HatemRabeaHamde)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:xavio1115@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/201101980053)
 
 </div>
 
 ---
 
-## Professional Summary
-
-Full-Stack Web Developer with 3+ years of experience delivering production-grade platforms, APIs, dashboards, booking systems, payment flows, loyalty platforms, and Arabic/English localized applications.
-
-I specialize in Laravel and React ecosystems, with a strong focus on clean architecture, secure backend workflows, performance optimization, and practical product delivery.
+Full-Stack Developer with **3+ years** delivering production-grade platforms, APIs, dashboards, booking systems, payment flows, and bilingual (AR/EN) applications. Strong focus on clean architecture, secure backend workflows, and practical product delivery.
 
 ---
 
-## Core Expertise
+## Stack
 
-<table>
-  <tr>
-    <td width="33%">
-      <strong>Backend</strong>
-      <br /><br />
-      Laravel, PHP 8.x, REST APIs, Sanctum, Queues, Jobs, Redis, MySQL
-    </td>
-    <td width="33%">
-      <strong>Frontend</strong>
-      <br /><br />
-      React, TypeScript, Redux Toolkit, RTK Query, Tailwind CSS, Zod
-    </td>
-    <td width="33%">
-      <strong>Product</strong>
-      <br /><br />
-      Dashboards, Payments, Booking Systems, Marketplaces, Localization
-    </td>
-  </tr>
-</table>
-
----
-
-## Tech Stack
-
-<table>
-  <tr>
-    <td><strong>Backend</strong></td>
-    <td>
-      <code>Laravel</code>
-      <code>PHP</code>
-      <code>REST APIs</code>
-      <code>Sanctum</code>
-      <code>Queues</code>
-      <code>Redis</code>
-    </td>
-  </tr>
-  <tr>
-    <td><strong>Frontend</strong></td>
-    <td>
-      <code>React</code>
-      <code>TypeScript</code>
-      <code>Redux Toolkit</code>
-      <code>RTK Query</code>
-      <code>Tailwind CSS</code>
-    </td>
-  </tr>
-  <tr>
-    <td><strong>Database</strong></td>
-    <td>
-      <code>MySQL</code>
-      <code>SQL</code>
-      <code>Query Optimization</code>
-      <code>Caching</code>
-    </td>
-  </tr>
-  <tr>
-    <td><strong>Integrations</strong></td>
-    <td>
-      <code>Payment Gateways</code>
-      <code>Firebase FCM</code>
-      <code>OTP/SMS</code>
-      <code>Webhooks</code>
-      <code>Third-Party APIs</code>
-    </td>
-  </tr>
-  <tr>
-    <td><strong>Engineering</strong></td>
-    <td>
-      <code>SOLID</code>
-      <code>Service Layer</code>
-      <code>Repository Pattern</code>
-      <code>DTOs</code>
-      <code>Clean Architecture</code>
-    </td>
-  </tr>
-</table>
+| Layer | Technologies |
+|---|---|
+| **Backend** | ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white) ![PHP](https://img.shields.io/badge/PHP_8.x-777BB4?style=flat&logo=php&logoColor=white) ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white) |
+| **Frontend** | ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white) |
+| **Database** | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white) |
+| **Integrations** | Payments · Firebase FCM · OTP/SMS · Webhooks · Third-Party APIs |
+| **Engineering** | SOLID · Service Layer · Repository Pattern · Clean Architecture · DTOs |
 
 ---
 
@@ -118,32 +39,27 @@ I specialize in Laravel and React ecosystems, with a strong focus on clean archi
 
 | Project | Focus |
 |---|---|
-| **aiSmarty** | AI-powered Shopify content optimization platform with Shopify OAuth, product sync, AI workflows, background polling, and one-click publishing |
-| **Saedni** | Automotive services and payments platform with subscriptions, inspections, towing, rentals, MyFatoorah payments, Firebase notifications, and RTL/LTR support |
-| **Hya** | Social commerce and loyalty platform with feed, chat, deals, live streaming, POS/cashier integration, and secure payment workflows |
-| **Machine Rental Platform** | Heavy-machine rental marketplace with OTP login, booking lifecycle, role-based access, and admin reporting |
-| **Real Estate Platform** | Multi-vendor real estate system with contracts, invoices, PDF generation, admin dashboard, localization, and performance optimization |
-| **WestClean** | Laundry marketplace with OTP auth, Moyasar payments, role-scoped APIs, coin purchasing, and Arabic/English localization |
+| **aiSmarty** | AI-powered Shopify content optimization · OAuth · product sync · AI workflows · one-click publish |
+| **Saedni** | Automotive platform · subscriptions · MyFatoorah · Firebase notifications · RTL/LTR |
+ | **Machine Rental** | Heavy-machine marketplace · OTP login · booking lifecycle · role-based access · admin reporting |
+| **Real Estate Platform** | Multi-vendor · contracts · invoices · PDF generation · localization · performance optimization |
+| **WestClean** | Laundry marketplace · OTP · Moyasar payments · role-scoped APIs · AR/EN localization |
 
 ---
 
-## Delivery Highlights
+<div align="center">
 
-<table>
-  <tr>
-    <td align="center"><strong>10+</strong><br />Production platforms</td>
-    <td align="center"><strong>8+</strong><br />Payment gateways</td>
-    <td align="center"><strong>35% - 55%</strong><br />Performance gains</td>
-    <td align="center"><strong>4</strong><br />Main markets</td>
-  </tr>
-</table>
+| 10+ | 8+ | 35–55% | 4 |
+|:---:|:---:|:---:|:---:|
+| Production platforms | Payment gateways | Performance gains | Active markets |
+
+</div>
 
 ---
-
-## Engineering Principles
 
 ```txt
-Clean Architecture        Secure REST APIs        Payment Reliability
-Service Layer             Repository Pattern      Webhook Verification
-Performance Tuning        Query Optimization      Localization Ready
-Scalable Dashboards       Role-Based Access       Production Delivery
+Clean Architecture  ·  Secure REST APIs   ·  Payment Reliability
+Service Layer       ·  Repository Pattern  ·  Webhook Verification
+Performance Tuning  ·  Query Optimization  ·  Localization Ready
+Scalable Dashboards ·  Role-Based Access   ·  Production Delivery
+```
