@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/githubBanner.png" alt="Hatem Rabea Banner" width="100%" high="20%" />
+  <img src="./assets/githubBanner.png" alt="Hatem Rabea Banner" width="100%" height="20%" />
 </p>
 
 ## 👨‍💻 About Me
@@ -31,7 +31,7 @@ Multi-tenant Shopify SaaS platform for AI-powered content generation and publish
 
 **Tech:** React 19 · RTK Query · Tailwind CSS · Shopify API
 
-🔗 Case Study: [View Details](./case-studies/ai-smarty.md)
+🔗 Case Study: [View Details](./case-studies/aismarty.md)
 
 ---
 
@@ -58,7 +58,7 @@ Multi-vendor property management platform.
 
 **Tech:** Laravel · Invoices · PDF Generation · Localization
 
-🔗 Case Study: [View Details](./case-studies/real-estate.md)
+🔗 Case Study: [View Details](./case-studies/real-estate-platform.md)
 
 ---
 
