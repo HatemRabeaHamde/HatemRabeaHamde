@@ -1,76 +1,199 @@
+<div align="center">
 
-# Hatem Rabea
+<a href="https://www.linkedin.com/in/hatimrabea">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
+</a>
 
-**Full-Stack Web Developer**  
-Laravel · React · TypeScript · REST APIs · Payments · SaaS · Localization
+<a href="https://github.com/HatemRabeaHamde">
+  <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github">
+</a>
 
-I build production-ready web platforms with clean architecture, secure APIs, reliable payment flows, and scalable dashboards.
+<a href="mailto:xavio1115@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail">
+</a>
 
-[LinkedIn](https://www.linkedin.com/in/hatimrabea) · [GitHub](https://github.com/HatemRabeaHamde) · [Email](mailto:xavio1115@gmail.com) · [WhatsApp](https://wa.me/201101980053)
+<a href="https://wa.me/201101980053">
+  <img src="https://img.shields.io/badge/WhatsApp-Message-green?style=for-the-badge&logo=whatsapp">
+</a>
 
----
-
-## About
-
-Full-Stack Web Developer with 3+ years of experience building platforms for clients across KSA, UAE, Egypt, and Europe.
-
-My work focuses on Laravel, React, TypeScript, payment systems, booking workflows, admin dashboards, API security, performance optimization, and Arabic/English localization.
-
----
-
-## Stack
-
-`Laravel` `PHP` `React` `TypeScript` `Redux Toolkit` `RTK Query` `Tailwind CSS`  
-`MySQL` `Redis` `REST APIs` `Sanctum` `Firebase` `Payment Gateways`  
-`SOLID` `Service Layer` `Repository Pattern` `Clean Architecture`
+</div>
 
 ---
 
-## Selected Work
+# 🚀 What I Build
 
-**[aiSmarty](./case-studies/aismarty.md)** — AI · SaaS  
-Shopify content optimization · OAuth · product sync · AI workflows · one-click publish  
-💡 Learned: long-running AI jobs with background polling & queues
+Production-ready systems focused on:
 
-**[Saedni](./case-studies/saedni.md)** — Payments  
-Automotive platform · subscriptions · MyFatoorah · Firebase · RTL/LTR  
-💡 Learned: reliable subscription billing with webhook verification
-
-**[Machine Rental](./case-studies/machine-rental.md)** — Marketplace  
-Heavy-machine rental · OTP login · booking lifecycle · role-based access · admin reporting  
-💡 Learned: modeling complex booking state machines cleanly
-
-**[Real Estate Platform](./case-studies/real-estate-platform.md)** — Multi-vendor  
-Contracts · invoices · PDF generation · localization · performance optimization  
-💡 Learned: server-side PDF generation & query optimization under load
-
-**[WestClean](./case-studies/westclean.md)** — Payments  
-Laundry marketplace · OTP · Moyasar · role-scoped APIs · AR/EN localization  
-💡 Learned: scoping APIs per role & securing payment callbacks
+* SaaS Platforms
+* Marketplaces
+* Payment Systems
+* Booking Platforms
+* Admin Dashboards
+* Multi-language Applications
 
 ---
 
-## What I Care About
+# ⚡ Tech Stack
 
-- Clean backend architecture
-- Secure payment and webhook flows
-- Fast APIs and optimized database queries
-- Maintainable React applications
-- Arabic/English localization from day one
-- Shipping stable production systems
+### Backend
+
+`Laravel`
+`PHP`
+`MySQL`
+`Redis`
+`REST APIs`
+`Sanctum`
+
+### Frontend
+
+`React`
+`TypeScript`
+`Redux Toolkit`
+`RTK Query`
+`Tailwind CSS`
+
+### Architecture
+
+`SOLID`
+`Service Layer`
+`Repository Pattern`
+`Clean Architecture`
 
 ---
 
-## Contact
+# 🌟 Featured Projects
 
-| Channel | Link |
-|---|---|
-| LinkedIn | [linkedin.com/in/hatimrabea](https://www.linkedin.com/in/hatimrabea) |
-| GitHub | [github.com/HatemRabeaHamde](https://github.com/HatemRabeaHamde) |
-| Email | [xavio1115@gmail.com](mailto:xavio1115@gmail.com) |
-| Phone | [+20 110 198 0053](tel:+201101980053) |
-| WhatsApp | [wa.me/201101980053](https://wa.me/201101980053) |
+## 🤖 aiSmarty
+
+AI-powered Shopify optimization platform.
+
+**Highlights**
+
+* Shopify OAuth
+* Product Synchronization
+* AI Workflows
+* Queue Processing
+* One-click Publishing
+
+➡️ Case Study
+
+[Read More](./case-studies/aismarty.md)
 
 ---
 
-**Clean architecture. Secure APIs. Scalable platforms.**
+## 💳 Saedni
+
+Automotive subscriptions and payment platform.
+
+**Highlights**
+
+* MyFatoorah Integration
+* Subscription Billing
+* Firebase Notifications
+* Webhook Verification
+* RTL / LTR Support
+
+➡️ Case Study
+
+[Read More](./case-studies/saedni.md)
+
+---
+
+## 🏗 Machine Rental
+
+Heavy equipment booking marketplace.
+
+**Highlights**
+
+* OTP Authentication
+* Booking Lifecycle
+* Role-Based Access
+* Admin Reporting
+
+➡️ Case Study
+
+[Read More](./case-studies/machine-rental.md)
+
+---
+
+## 🏠 Real Estate Platform
+
+Multi-vendor property management platform.
+
+**Highlights**
+
+* Contracts
+* Invoices
+* PDF Generation
+* Localization
+* Performance Optimization
+
+➡️ Case Study
+
+[Read More](./case-studies/real-estate-platform.md)
+
+---
+
+## 🧺 WestClean
+
+Laundry marketplace with integrated payments.
+
+**Highlights**
+
+* OTP Authentication
+* Moyasar Payments
+* Role-Based APIs
+* AR / EN Localization
+
+➡️ Case Study
+
+[Read More](./case-studies/westclean.md)
+
+---
+
+# 🎯 Expertise
+
+* SaaS Architecture
+* Marketplace Development
+* Payment Integrations
+* API Design & Security
+* Booking Systems
+* Localization (Arabic / English)
+* Performance Optimization
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=HatemRabeaHamde&show_icons=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HatemRabeaHamde&layout=compact" />
+</p>
+
+---
+
+# 📈 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HatemRabeaHamde" />
+</p>
+
+---
+
+# 📫 Contact
+
+📧 Email: [xavio1115@gmail.com](mailto:xavio1115@gmail.com)
+
+💼 LinkedIn: linkedin.com/in/hatimrabea
+
+💻 GitHub: github.com/HatemRabeaHamde
+
+📱 WhatsApp: +20 110 198 0053
+
+---
+
+<div align="center">
+
+### Clean Architecture • Secure APIs • Scalable Platforms
+
+</div>
