@@ -1,28 +1,32 @@
+<p align="center">
+  <img src="./assets/banner.png" alt="Hatem Rabea - Full Stack Web Developer" width="100%" />
+</p>
+
 <div align="center">
 
 <a href="https://www.linkedin.com/in/hatimrabea">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 <a href="https://github.com/HatemRabeaHamde">
-  <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github">
+  <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 <a href="mailto:xavio1115@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail">
+  <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 <a href="https://wa.me/201101980053">
-  <img src="https://img.shields.io/badge/WhatsApp-Message-green?style=for-the-badge&logo=whatsapp">
+  <img src="https://img.shields.io/badge/WhatsApp-Message-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 </a>
 
 </div>
 
 ---
 
-# 🚀 What I Build
+## 🚀 What I Build
 
-Production-ready systems focused on:
+Production-ready platforms focused on:
 
 * SaaS Platforms
 * Marketplaces
@@ -33,167 +37,96 @@ Production-ready systems focused on:
 
 ---
 
-# ⚡ Tech Stack
+## ⚡ Tech Stack
 
-### Backend
+**Backend**
+`Laravel` `PHP` `MySQL` `Redis` `REST APIs` `Sanctum`
 
-`Laravel`
-`PHP`
-`MySQL`
-`Redis`
-`REST APIs`
-`Sanctum`
+**Frontend**
+`React` `TypeScript` `Redux Toolkit` `RTK Query` `Tailwind CSS`
 
-### Frontend
-
-`React`
-`TypeScript`
-`Redux Toolkit`
-`RTK Query`
-`Tailwind CSS`
-
-### Architecture
-
-`SOLID`
-`Service Layer`
-`Repository Pattern`
-`Clean Architecture`
+**Architecture & Engineering**
+`SOLID` `Service Layer` `Repository Pattern` `Clean Architecture` `Queues` `Webhooks`
 
 ---
 
-# 🌟 Featured Projects
+## 🌟 Featured Projects
 
-## 🤖 aiSmarty
+### 🤖 aiSmarty
 
-AI-powered Shopify optimization platform.
+AI-powered Shopify SaaS platform for content generation and publishing.
 
-**Highlights**
+**Highlights:** Shopify OAuth · Product Sync · AI Workflows · Queue Processing · One-click Publishing
 
-* Shopify OAuth
-* Product Synchronization
-* AI Workflows
-* Queue Processing
-* One-click Publishing
-
-➡️ Case Study
-
-[Read More](./case-studies/aismarty.md)
+[Read Case Study](./case-studies/aismarty.md)
 
 ---
 
-## 💳 Saedni
+### 💳 Saedni
 
 Automotive subscriptions and payment platform.
 
-**Highlights**
+**Highlights:** MyFatoorah · Subscription Billing · Firebase Notifications · Webhook Verification · RTL/LTR
 
-* MyFatoorah Integration
-* Subscription Billing
-* Firebase Notifications
-* Webhook Verification
-* RTL / LTR Support
-
-➡️ Case Study
-
-[Read More](./case-studies/saedni.md)
+[Read Case Study](./case-studies/saedni.md)
 
 ---
 
-## 🏗 Machine Rental
+### 🏗 Machine Rental
 
 Heavy equipment booking marketplace.
 
-**Highlights**
+**Highlights:** OTP Authentication · Booking Lifecycle · Role-Based Access · Admin Reporting
 
-* OTP Authentication
-* Booking Lifecycle
-* Role-Based Access
-* Admin Reporting
-
-➡️ Case Study
-
-[Read More](./case-studies/machine-rental.md)
+[Read Case Study](./case-studies/machine-rental.md)
 
 ---
 
-## 🏠 Real Estate Platform
+### 🏠 Real Estate Platform
 
 Multi-vendor property management platform.
 
-**Highlights**
+**Highlights:** Contracts · Invoices · PDF Generation · Localization · Performance Optimization
 
-* Contracts
-* Invoices
-* PDF Generation
-* Localization
-* Performance Optimization
-
-➡️ Case Study
-
-[Read More](./case-studies/real-estate-platform.md)
+[Read Case Study](./case-studies/real-estate-platform.md)
 
 ---
 
-## 🧺 WestClean
+### 🧺 WestClean
 
 Laundry marketplace with integrated payments.
 
-**Highlights**
+**Highlights:** OTP Authentication · Moyasar Payments · Role-Based APIs · AR/EN Localization
 
-* OTP Authentication
-* Moyasar Payments
-* Role-Based APIs
-* AR / EN Localization
-
-➡️ Case Study
-
-[Read More](./case-studies/westclean.md)
+[Read Case Study](./case-studies/westclean.md)
 
 ---
 
-# 🎯 Expertise
+## 🎯 Expertise
 
-* SaaS Architecture
-* Marketplace Development
-* Payment Integrations
-* API Design & Security
-* Booking Systems
-* Localization (Arabic / English)
-* Performance Optimization
+SaaS Architecture · Marketplace Development · Payment Integrations · API Design & Security · Booking Systems · Localization · Performance Optimization
 
 ---
 
-# 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=HatemRabeaHamde&show_icons=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HatemRabeaHamde&layout=compact" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=HatemRabeaHamde&show_icons=true&theme=github_dark&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HatemRabeaHamde&layout=compact&theme=github_dark&hide_border=true" />
 </p>
 
----
 
-# 📈 Contribution Activity
+## 📫 Contact
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HatemRabeaHamde" />
-</p>
-
----
-
-# 📫 Contact
-
-📧 Email: [xavio1115@gmail.com](mailto:xavio1115@gmail.com)
-
-💼 LinkedIn: linkedin.com/in/hatimrabea
-
-💻 GitHub: github.com/HatemRabeaHamde
-
-📱 WhatsApp: +20 110 198 0053
+* Email: [xavio1115@gmail.com](mailto:xavio1115@gmail.com)
+* LinkedIn: [linkedin.com/in/hatimrabea](https://www.linkedin.com/in/hatimrabea)
+* GitHub: [github.com/HatemRabeaHamde](https://github.com/HatemRabeaHamde)
+* WhatsApp: [+20 110 198 0053](https://wa.me/201101980053)
 
 ---
 
 <div align="center">
 
-### Clean Architecture • Secure APIs • Scalable Platforms
+### Clean Architecture · Secure APIs · Scalable Platforms
 
 </div>
