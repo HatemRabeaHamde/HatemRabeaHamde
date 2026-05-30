@@ -1,71 +1,77 @@
-<div align="center">
+![Hatem Rabea profile banner](./assets/profile-banner.svg)
 
 # Hatem Rabea
 
-**Full-stack web developer**
+**Full-Stack Web Developer**<br />
+Laravel · React · TypeScript · REST APIs · Payments · SaaS · Localization
 
-I build secure, scalable, production-ready platforms — payments, dashboards,<br/>
-booking systems & bilingual AR/EN apps for clients across the Gulf, Egypt & Europe.
+I build production-ready web platforms with clean architecture, secure APIs, reliable payment flows, and scalable dashboards.
 
-`💡 Always learning, every single project`
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hatimrabea)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/HatemRabeaHamde)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:xavio1115@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/201101980053)
-
-</div>
-
-<div align="center">
-
-| 10+ | 8+ | 55% | 3+ |
-|:--:|:--:|:--:|:--:|
-| Platforms | Gateways | Perf gains | Years |
-
-</div>
+[LinkedIn](https://www.linkedin.com/in/hatimrabea) · [GitHub](https://github.com/HatemRabeaHamde) · [Email](mailto:xavio1115@gmail.com) · [WhatsApp](https://wa.me/201101980053)
 
 ---
 
-### 🧱 Tech stack
+## About
 
-| | |
-|--:|:--|
-| **Backend** | ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white) ![PHP](https://img.shields.io/badge/PHP_8.x-777BB4?style=flat-square&logo=php&logoColor=white) ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white) |
-| **Frontend** | ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) |
-| **Data** | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) |
-| **Patterns** | `SOLID` `Service Layer` `Repository` `Clean Architecture` |
+Full-Stack Web Developer with 3+ years of experience building platforms for clients across KSA, UAE, Egypt, and Europe.
+
+My work focuses on Laravel, React, TypeScript, payment systems, booking workflows, admin dashboards, API security, performance optimization, and Arabic/English localization.
 
 ---
 
-### 📁 Selected work
+## Stack
 
-> **aiSmarty** — `AI · SaaS`
-> Shopify content optimization · OAuth · product sync · AI workflows · one-click publish
-> 💡 _Learned: long-running AI jobs with background polling & queues_
-
-> **Saedni** — `Payments`
-> Automotive platform · subscriptions · MyFatoorah · Firebase · RTL/LTR
-> 💡 _Learned: reliable subscription billing with webhook verification_
-
-> **Hya** — `Social commerce`
-> Feed · chat · live stream · POS/cashier · loyalty · secure payments
-> 💡 _Learned: syncing real-time chat & live data at scale_
-
-> **Machine Rental** — `Marketplace`
-> Heavy-machine rental · OTP login · booking lifecycle · role-based access · admin reporting
-> 💡 _Learned: modeling complex booking state machines cleanly_
-
-> **Real Estate Platform** — `Multi-vendor`
-> Contracts · invoices · PDF generation · localization · performance optimization
-> 💡 _Learned: server-side PDF generation & query optimization under load_
-
-> **WestClean** — `Payments`
-> Laundry marketplace · OTP · Moyasar · role-scoped APIs · AR/EN localization
-> 💡 _Learned: scoping APIs per role & securing payment callbacks_
+`Laravel` `PHP` `React` `TypeScript` `Redux Toolkit` `RTK Query` `Tailwind CSS`<br />
+`MySQL` `Redis` `REST APIs` `Sanctum` `Firebase` `Payment Gateways`<br />
+`SOLID` `Service Layer` `Repository Pattern` `Clean Architecture`
 
 ---
 
-### 🛡️ How I build
+## Selected Work
 
-`Clean architecture` `Secure REST APIs` `Payment reliability` `Service layer`
-`Repository pattern` `Query optimization` `Localization ready`
+**[aiSmarty](./case-studies/aismarty.md)** — AI · SaaS<br />
+Shopify content optimization · OAuth · product sync · AI workflows · one-click publish<br />
+💡 Learned: long-running AI jobs with background polling & queues
+
+**[Saedni](./case-studies/saedni.md)** — Payments<br />
+Automotive platform · subscriptions · MyFatoorah · Firebase · RTL/LTR<br />
+💡 Learned: reliable subscription billing with webhook verification
+
+**[Machine Rental](./case-studies/machine-rental.md)** — Marketplace<br />
+Heavy-machine rental · OTP login · booking lifecycle · role-based access · admin reporting<br />
+💡 Learned: modeling complex booking state machines cleanly
+
+**[Real Estate Platform](./case-studies/real-estate-platform.md)** — Multi-vendor<br />
+Contracts · invoices · PDF generation · localization · performance optimization<br />
+💡 Learned: server-side PDF generation & query optimization under load
+
+**[WestClean](./case-studies/westclean.md)** — Payments<br />
+Laundry marketplace · OTP · Moyasar · role-scoped APIs · AR/EN localization<br />
+💡 Learned: scoping APIs per role & securing payment callbacks
+
+---
+
+## What I Care About
+
+- Clean backend architecture
+- Secure payment and webhook flows
+- Fast APIs and optimized database queries
+- Maintainable React applications
+- Arabic/English localization from day one
+- Shipping stable production systems
+
+---
+
+## Contact
+
+| Channel | Link |
+|---|---|
+| LinkedIn | [linkedin.com/in/hatimrabea](https://www.linkedin.com/in/hatimrabea) |
+| GitHub | [github.com/HatemRabeaHamde](https://github.com/HatemRabeaHamde) |
+| Email | [xavio1115@gmail.com](mailto:xavio1115@gmail.com) |
+| Phone | [+20 110 198 0053](tel:+201101980053) |
+| WhatsApp | [wa.me/201101980053](https://wa.me/201101980053) |
+
+---
+
+**Clean architecture. Secure APIs. Scalable platforms.**
